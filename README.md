@@ -1,6 +1,11 @@
 # LeetCode-Angzz
 LeetCode solutions implemented in C++ and Python.
 
-### Solved problems sorted in acceptance rate 
+### Solved problems Sorted by Acceptance Rate 
 
-*  No.771. Jewels and Stones
+| No. | Name | Acceptance | Difficulty | Time/Cpp | Time/Python
+| :------| :------ | :------ | :------ | :------ | :------ |
+| 771 | Jewels and Stones | 81.7% | Easy | 4ms | 36ms
+| 807 | Max Increase to Keep City Skyline | 80.2% | Medium | 4ms | 60ms
+
+
